@@ -1,0 +1,27 @@
+{
+  "name": "would-you-rather",
+  "homepage": "http://tone4hook.github.io/would-you-rather",
+  "version": "0.1.0",
+  "private": true,
+ "repository" : {
+  	"type" : "git",
+  	"url" : "https://github.com/tone4hook/would-you-rather.git"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-redux-loading-bar": "^4.0.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+	"predeploy": "npm run build"
+  }
+}
