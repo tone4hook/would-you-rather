@@ -1,6 +1,6 @@
 # Would You Rather
 
-A *would you rather* app built with React and Redux that allows you to answer and add *would you rather* questions. The Leaderboard view displays users in order by the most questions asked and answered.
+A *Would You Rather* app built with React and Redux that allows you to answer and add *Would You Rather* questions. The Leaderboard view displays users in order by the most questions asked and answered.
 
 [View project here](https://tone4hook.github.io/would-you-rather/)
 
