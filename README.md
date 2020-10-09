@@ -8,12 +8,11 @@ A *Would You Rather* app built with React and Redux that allows you to answer an
 
 Download, clone, or fork the repo.
 Using Terminal or Command Prompt navigate to the *would-you-rather* directory.
-* *npm update*  to update dependencies
-* *npm update --save-dev*  to update all devDependencies
-* *npm start* to run local server
-* *npm run build* to build the project in production mode (compiles in build directory)
-* *npm run test* for testing
-* *npm run eject* to look under the hood of create-react-app
+* `npm install`
+* `npm start` to run local server
+* `npm run build` to build the project in production mode (compiles in build directory)
+* `npm run test` for testing
+* `npm run eject` to look under the hood of create-react-app
 
 
 ### Prerequisites
