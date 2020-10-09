@@ -8,13 +8,13 @@
     "url": "https://github.com/tone4hook/would-you-rather.git"
   },
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-redux": "^5.0.7",
-    "react-redux-loading-bar": "^4.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^5.1.2",
+    "react-redux-loading-bar": "^4.6.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": ">=2.1.5",
-    "redux": "^4.0.0",
+    "react-scripts": "^3.4.3",
+    "redux": "^4.0.5",
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
